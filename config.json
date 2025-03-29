@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_TOKEN",
+  "admin_id": "ADMIN_ID",
+  "domain": "YOUR_DOMAIN",
+  "auto_approve": true,
+  "auto_backup": true
+}
